@@ -12,23 +12,17 @@
 
 // console.log(
 //   "Ism: 	" + fname,
-//   "\n",
-//   "Familiya:		" + lname,
-//   "\n",
-// 	"Tug'ilgan sana: 	" + birthday,
-//   "\n",
-//   "Yashash manzil: 	" + residential_address,
-//   "\n",
-//   "Email: 	" + email,
-//   "\n",
-//   "Telefon raqam: 	" + tel,
-//   "\n",
-//   "Qiziqishlar: 	" + hobby,
-//   "\n",
-//   "Savol 1: 	" + question1,
-//   "\n",
-//   "Savol 2: 	" + question2
+//   "\nFamiliya:		" + lname,
+// 	"\nTug'ilgan sana: 	" + birthday,
+//   "\nYashash manzil: 	" + residential_address,
+//   "\nEmail: 	" + email,
+//   "\nTelefon raqam: 	" + tel,
+//   "\nQiziqishlar: 	" + hobby,
+//   "\nSavol 1: 	" + question1,
+//   "\nSavol 2: 	" + question2
 // );
+
+
 
 // ----- ojectiv ------
 
@@ -47,20 +41,12 @@ let user_data = {
 
 console.log(
   "Ism: 	" + user_data.fname,
-  "\n",
-  "Familiya:		" + user_data.lname,
-  "\n",
-  "Tug'ilgan sana: 	" + user_data.birthday,
-  "\n",
-  "Yashash manzil: 	" + user_data.residential_address,
-  "\n",
-  "Email: 	" + user_data.email,
-  "\n",
-  "Telefon raqam: 	" + user_data.tel,
-  "\n",
-  "Qiziqishlar: 	" + user_data.hobby,
-  "\n",
-  "Savol 1: 	" + user_data.question1,
-  "\n",
-  "Savol 2: 	" + user_data.question2,
+  "\nFamiliya:		" + user_data.lname,
+  "\nTug'ilgan sana: 	" + user_data.birthday,
+  "\nYashash manzil: 	" + user_data.residential_address,
+  "\nEmail: 	" + user_data.email,
+  "\nTelefon raqam: 	" + user_data.tel,
+  "\nQiziqishlar: 	" + user_data.hobby,
+  "\nSavol 1: 	" + user_data.question1,
+  "\nSavol 2: 	" + user_data.question2,
 );
